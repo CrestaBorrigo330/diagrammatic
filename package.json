@@ -1,0 +1,39 @@
+{
+  "name": "diagrammatic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrestaBorrigo330/diagrammatic.git"
+  },
+  "author": "CrestaBorrigo330",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrestaBorrigo330/diagrammatic/issues"
+  },
+  "homepage": "https://github.com/CrestaBorrigo330/diagrammatic#readme",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "is-bool": "^0.0.3",
+    "is-falsy": "^0.0.1",
+    "is-null": "^1.0.1",
+    "is-odd": "^3.0.1",
+    "node-fetch": "^2.7.0",
+    "qs": "^6.12.0",
+    "querystring": "^0.2.1",
+    "vite": "^5.2.6",
+    "vue": "^3.4.21",
+    "webpack": "^5.91.0",
+    "cyto-simulator": "^1.0.0",
+    "cyto-builder": "^1.0.0",
+    "cyto-tracker": "^1.0.0",
+    "cyto-processor": "^1.0.0",
+    "cyto-mapper": "^1.0.0",
+    "cyto-designer": "^1.0.0",
+    "[object Object]": "^1.0.0"
+  }
+}
